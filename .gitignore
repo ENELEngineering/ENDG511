@@ -162,3 +162,4 @@ cython_debug/
 /lab-env/
 /lab_one_models/
 *.h5
+*.tflite
